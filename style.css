@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+  }
+  #carouselExampleAutoplaying .carousel-item {
+    height: 28rem;}
+
+    .carousel-item img {
+        height: 82%;
+        width: 82%;
+    }
